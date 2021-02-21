@@ -7,3 +7,4 @@ With this program, you can enter a specific text/open a text file and convert it
 Also, this program decrypts the encrypted text using the same code. This final text can be saved to a separate file.
 
 New encryption options will be added soon.
+ 
