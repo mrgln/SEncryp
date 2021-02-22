@@ -1,6 +1,6 @@
 # SEncryp 1.0
 
-A desktop program for text encryption made on C#
+**Ddesktop program for text encryption made on C#**
 
 With this program, you can enter a specific text/open a text file and convert it to an encrypted version, using any key code that will affect the encryption method.
 
