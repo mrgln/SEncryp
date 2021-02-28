@@ -80,5 +80,15 @@ namespace EncryptionProgram
             textBox2.Clear();
             textBox3.Clear();
         }
+
+        private void howToUseToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show
+           ("Write your own text and by choosing special KeyCode (which you should remember) encrypt it.\n" +
+           "If you want to get real text from converted one,write that encrypted text and use the same KeyCode that you used before\n",
+            "SEncrypt 1.0 \n",
+           MessageBoxButtons.OK);
+
+        }
     }
 }
